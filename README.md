@@ -6,11 +6,14 @@ https://toneykfriendfinder.herokuapp.com/
 
 ## Screen Shots
 
-![Screen shot](app/public/images/Screen-Shot-1.png)
 Index Page
 
-![Screen shot 2](app/public/images/Screen-Shot-2.png)
+![Screen shot](app/public/images/Screen-Shot-1.png)
+
 Survey
+
+![Screen shot 2](app/public/images/Screen-Shot-2.png)
+
 
 ## Technologies used
 - Node.js
